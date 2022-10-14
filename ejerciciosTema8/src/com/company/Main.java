@@ -16,6 +16,8 @@ public class Main {
         System.out.println("Su edad es: " + persona.getEdad());
         System.out.println("Su teléfono es: " + persona.getTelefono());
 
+        System.out.println("Hago este cambio para probar el commit en GitHub");
+
     }
 }
 class Persona{
